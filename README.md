@@ -4,4 +4,6 @@ For the UI this app uses the ExoPlayer dependency and for requesting permissions
 
 
 ExoPlayer - https://github.com/google/ExoPlayer
+
+
 Dexter - https://github.com/Karumi/Dexter
